@@ -62,5 +62,3 @@ Heroku 提供免费账号，部分介绍如下：
     proxy = socks5://127.0.0.1:1080
 ```
 3. 网站导航 http://www.ipv6daohang.com/
-
-## 送人玫瑰手留余香🌹（[参考教程](https://github.com/521xueweihan/shadowsocks-heroku/tree/master)）
